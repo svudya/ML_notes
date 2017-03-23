@@ -1,0 +1,11 @@
+Convolutional Neural networks
+
+Steps:
+Install Docker
+Install TF Image
+Download Dataset
+Link TF Image to Dataset
+DL Training Script
+Retrain Model
+Classify
+
